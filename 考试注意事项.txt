@@ -1,0 +1,12 @@
+考试提示：
+1、答题字体工整，卷面整洁，注意规划、布局。
+2、答题内容、方式：“ 准确，简要、直接”
+  如：   在原理图中添加“0.1UF的无极性电容”元件
+  答：选择Place->Part；选择Device.IntLib器件库，找到Cap元件，双击该元器件；
+    按TAB键，修改属性 Comment为0.1UF（或 Value值为0.1UF），放置到原理图编辑界面。
+
+  评判要点： Place->Part  ；    Device器件库；    Cap 元件  ；设置参数 0.1UF； 放置   
+      
+3、注意答题速度（考试时间）。
+4、需要的器件库：Microchip_Microcontroller 8-bit PIC16.IntLib（简写为 PIC16.IntLib）
+                           Miscellaneous Device.IntLib  （简写为 Device.IntLib）
